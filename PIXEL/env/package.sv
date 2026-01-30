@@ -25,7 +25,7 @@ package my_pkg;
 `include "dc_monitor.sv"
 `include "dc_agent.sv" 
 `include "scoreboard.sv"
-`include "env.sv"
+`include "dc_env.sv"
 `include "top_env.sv"
 `include "test.sv"
 
