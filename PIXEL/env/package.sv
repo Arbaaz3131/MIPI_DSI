@@ -1,5 +1,5 @@
 
-`include "ahb_package_og.sv"
+`include "ahb_package.sv"
 `include "ppi_package.sv"
 
 package my_pkg;
