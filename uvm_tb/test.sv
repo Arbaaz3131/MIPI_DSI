@@ -1,4 +1,3 @@
-//`include "ahb_sequence.sv"
 class test extends uvm_test;
   
   `uvm_component_utils(test)
